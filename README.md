@@ -6,4 +6,4 @@
 </h1>
 
 # Flappy_Bird_AI
-AI learns how to play flappy bird game using NEAT in python.
+AI learns how to play flappy bird game using NEAT genetic algorithms in python.
